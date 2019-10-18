@@ -1,6 +1,6 @@
 #Disable index view
 options -Indexes
-
+# test
 #Hide a Specific File
 <Files .*>
 order allow,deny
