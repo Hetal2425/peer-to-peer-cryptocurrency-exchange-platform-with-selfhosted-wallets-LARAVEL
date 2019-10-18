@@ -1,5 +1,6 @@
 <?php
 // @formatter:off
+//Test
 
 namespace PHPSTORM_META {
 
